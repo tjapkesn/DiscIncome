@@ -1,0 +1,1 @@
+select * from median_expenses_by_country;
